@@ -68,8 +68,8 @@ doska=Canvas(gl_okno, width=900,height=900,bg='#FFFFFF')
 doska.pack()
 
 spisok_hodov_komputera = ()#конечный список ходов компьютера
-predskazanie_hodi = 3#количество предсказываемых компьютером ходов
-k_rezult=0#!!!
+predskazanie_hodi = 2#количество предсказываемых компьютером ходов
+k_rezult=0
 o_rezult=0
 poz1_x=-1#клетка не задана
 opredelitel_hoda_igroka=True#определение хода игрока(да)
